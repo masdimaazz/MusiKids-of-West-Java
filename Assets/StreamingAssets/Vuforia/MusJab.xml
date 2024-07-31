@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Gendang" size="1.000000 0.562500" />
+    <ImageTarget name="kecapi" size="1.000000 0.552743" />
+    <ImageTarget name="rebab" size="1.000000 0.555405" />
+    <ImageTarget name="suling" size="1.000000 1.000000" />
+    <ImageTarget name="Jelongjing" size="1.000000 0.520900" />
+    <ImageTarget name="Angklung" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
